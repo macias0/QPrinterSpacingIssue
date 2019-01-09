@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>regular_transfer_form.png</file>
+        <file>IBMPlexMono-Medium.ttf</file>
+    </qresource>
+</RCC>
